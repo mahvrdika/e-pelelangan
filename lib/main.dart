@@ -35,14 +35,14 @@ class AuctionScreen extends StatelessWidget {
     Car(
       brand: 'Grand Chrusier',
       model: 'RX 7',
-      description: 'Description of Model 2',
+      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque urna sit amet molestie hendrerit.',
       price: '300,000',
       image: 'assets/car2.png',
     ),
     Car(
       brand: 'Mazda',
       model: '3',
-      description: 'Description of Model 3',
+      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pellentesque urna sit amet molestie hendrerit.',
       price: '250,000',
       image: 'assets/car3.png',
     ),
